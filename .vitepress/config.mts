@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Flex Queue Madness Wiki",
   description: "Stuff & Things that are neat to know.",
   srcDir: 'content',
+  base: '/wiki/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
