@@ -6,13 +6,14 @@ export default defineConfig({
   description: "Stuff & Things that are neat to know.",
   srcDir: 'content',
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Software', link: '/software' },
       { text: 'Games', link: '/games' }
     ],
-
     sidebar: [
       {
         text: 'Software',
@@ -28,7 +29,6 @@ export default defineConfig({
         ]
       },
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Flex-Queue-Madness/wiki' }
     ]
