@@ -29,6 +29,10 @@ export default defineConfig({
         ]
       },
     ],
+    outline: {
+      level: 'deep',
+      label: 'ToC'
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Flex-Queue-Madness/wiki' }
     ]

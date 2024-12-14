@@ -1,8 +1,3 @@
----
-outline: deep
----
-
-
 # FFMPEG
 
 [FFMPEG](https://ffmpeg.org/) ist ein freies Multimedia-Softwareprojekt. Es bietet eine Reihe freier Computerprogramme und Programmbibliotheken, die digitales Video- und Audiomaterial aufnehmen, konvertieren, senden (streamen), filtern und in verschiedene Containerformate verpacken können. Unter anderem enthält es mit libavcodec eine umfangreiche Sammlung von Audio- und Videocodecs.
@@ -51,6 +46,8 @@ ffmpeg \
 Videos lassen sich schnell in ein anderes Format konvertieren, in dem man einfach eine neue Dateiendung anhängt. Dabei werden Codecs etc. von FFMPEG automatisch befüllt.
 
 * `$OUTPUT.format` z.b. `mein-video.mp4`
+
+#### test headline
 
 
 ### GIF

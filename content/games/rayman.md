@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Rayman
 
 Nützliche Linksammlung zu den Rayman Spielen

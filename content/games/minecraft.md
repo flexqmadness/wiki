@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Minecraft
 
 *soon*™
