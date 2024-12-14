@@ -1,3 +1,4 @@
 # Games Topic
 
-[Rayman](rayman)
+* [Rayman](rayman)
+* [Minecraft](minecraft)

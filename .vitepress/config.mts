@@ -23,9 +23,10 @@ export default defineConfig({
       {
         text: 'Games',
         items: [
-          { text: 'Rayman', link: '/games/rayman' }
+          { text: 'Rayman', link: '/games/rayman' },
+          { text: 'Minecraft', link: '/games/minecraft' }
         ]
-      }
+      },
     ],
 
     socialLinks: [
