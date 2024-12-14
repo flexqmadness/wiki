@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Software', link: '/software' }
+      { text: 'Software', link: '/software' },
+      { text: 'Games', link: '/games' }
     ],
 
     sidebar: [
@@ -17,6 +18,12 @@ export default defineConfig({
         text: 'Software',
         items: [
           { text: 'FFMPEG', link: '/software/ffmpeg' }
+        ]
+      },
+      {
+        text: 'Games',
+        items: [
+          { text: 'Rayman', link: '/games/rayman' }
         ]
       }
     ],
