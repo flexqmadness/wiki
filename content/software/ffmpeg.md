@@ -47,8 +47,6 @@ Videos lassen sich schnell in ein anderes Format konvertieren, in dem man einfac
 
 * `$OUTPUT.format` z.b. `mein-video.mp4`
 
-#### test headline
-
 
 ### GIF
 
