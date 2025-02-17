@@ -82,7 +82,7 @@ Oxfam hat hierzu eine Studie veröffentlicht, die anschaulich vermittelt, dass S
 ## Die Söder-Challenge
 
 Es gibt Politiker wie Markus Söder, die sich momentan wieder für das Thema [Atomstrom aus Deutschland stark machen](https://www.deutschlandfunk.de/soeder-csu-will-comeback-der-atomkraft-forcieren-und-die-fusionsforschung-voranbringen-100.html). 
-Der (Klein-)Künstler Marc-Uwe Kling hat sich hierzu einen schöne Challenge, die er an Markus Söder direkt richtet:
+Der (Klein-)Künstler Marc-Uwe Kling hat sich hierzu einen schöne Challenge ausgedacht, die er an Markus Söder direkt richtet:
 
 <YoutubeEmbed watchId="wVWBC9iJ8Hk"/>
 
