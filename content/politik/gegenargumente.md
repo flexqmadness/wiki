@@ -1,3 +1,7 @@
+<script setup>
+    import YoutubeEmbed from '../../components/YoutubeEmbed.vue'
+</script>
+
 # Gegenpositionen zu Aussagen von Rechten und/oder Konservativen
 
 In Diskussionen mit sehr konservativ denkenden Menschen werden gerne Scheinargmunete und gefühlte Wahrheiten verwendet. Oft geht es dabei mehr um Emotionen als um die Realität. Der initiale Impuls für mich, hier eine Sammlung von Quellen anzulegen, kam vor ein paar Wochen, als wir auf unserem Discord Server eine ausufernde Meinungsverschiedenheit zum Thema *Asylsuchende in Deutschland* hatten. Dabei wurde von einer Seite die Meinung vertreten, dass Asylbewerber an höheren Kriminalitätsraten schuld sind. Diese Meinung traf auf heftigen Gegenwind, der im verlaufe der 2-tägigen Debatte mit einigen Statistiken untermauert wurde. Diese mMn wichtigen Standpunkte möchte ich hier festhalten, damit sie nicht in den Untiefen unseres Chatlogs verloren gehen.
@@ -80,6 +84,7 @@ Oxfam hat hierzu eine Studie veröffentlicht, die anschaulich vermittelt, dass S
 Es gibt Politiker wie Markus Söder, die sich momentan wieder für das Thema [Atomstrom aus Deutschland stark machen](https://www.deutschlandfunk.de/soeder-csu-will-comeback-der-atomkraft-forcieren-und-die-fusionsforschung-voranbringen-100.html). 
 Der (Klein-)Künstler Marc-Uwe Kling hat sich hierzu einen schöne Challenge, die er an Markus Söder direkt richtet:
 
+<YoutubeEmbed watchId="wVWBC9iJ8Hk"/>
 
 Dass das Ganze mit den Atomkraftwerken wirklich nicht so einfach ist, wird auch von mehreren Stellen bestätigt:
 - [Rückkehr zur Atomkraft - mehr Kosten als Nutzen](https://www.tagesschau.de/wissen/technologie/atomkraft-128.html)
