@@ -1,3 +1,3 @@
 # Politics Topic
 
-* [Artikel und Studien, die beliebte rechte "Argumente" widerlegen](gegenargumente)
+* [Gegenpositionen zu Aussagen von Rechten und/oder Konservativen](gegenargumente)
