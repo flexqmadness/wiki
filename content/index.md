@@ -14,5 +14,8 @@ features:
   - title: Games
     details: It's all about the games..
     link: games/
+  - title: Politik
+    details: Trust me, i won't get political..
+    link: politik/  
 ---
 
