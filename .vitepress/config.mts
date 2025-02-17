@@ -28,6 +28,12 @@ export default defineConfig({
           { text: 'Minecraft', link: '/games/minecraft' }
         ]
       },
+      {
+        text: 'Politik',
+        items: [
+          { text: 'Artikel und Statistiken', link: '/politik/gegenargumente' }
+        ]
+      },
     ],
     outline: {
       level: 'deep',
