@@ -51,6 +51,7 @@ export default defineConfig({
     }
   },
   vite: {
+    publicDir: '../static/',
     resolve: {
       alias: {
         /*  The path is set to go back a directory level because
