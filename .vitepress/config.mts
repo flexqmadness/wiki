@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import * as path from 'path'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -48,5 +49,15 @@ export default defineConfig({
       light: 'catppuccin-latte',
       dark: 'catppuccin-frappe'
     }
-  }
+  },
+  vite: {
+    resolve: {
+      alias: {
+        /*  The path is set to go back a directory level because
+         *  the base path at build time is the '.vitepress' directory.
+         */
+        "@/components": path.resolve(__dirname, "../components/"),
+      },
+    },
+  },
 })

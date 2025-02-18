@@ -1,12 +1,12 @@
 <script setup>
-    import YoutubeEmbed from '../../components/YoutubeEmbed.vue'
+    import YoutubeEmbed from '@/components/YoutubeEmbed.vue'
 </script>
 
 # Gegenpositionen zu Aussagen von Rechten und/oder Konservativen
 
 In Diskussionen mit sehr konservativ denkenden Menschen werden gerne Scheinargmunete und gefühlte Wahrheiten verwendet. Oft geht es dabei mehr um Emotionen als um die Realität. Der initiale Impuls für mich, hier eine Sammlung von Quellen anzulegen, kam vor ein paar Wochen, als wir auf unserem Discord Server eine ausufernde Meinungsverschiedenheit zum Thema *Asylsuchende in Deutschland* hatten. Dabei wurde von einer Seite die Meinung vertreten, dass Asylbewerber an höheren Kriminalitätsraten schuld sind. Diese Meinung traf auf heftigen Gegenwind, der im verlaufe der 2-tägigen Debatte mit einigen Statistiken untermauert wurde. Diese mMn wichtigen Standpunkte möchte ich hier festhalten, damit sie nicht in den Untiefen unseres Chatlogs verloren gehen.
 
-Sollte man sich in so einer Diskussion wiederfinden und die Hoffnung haben, irgendwie zu seinem Gegenüber durchzudringen, kann die folgende Linkssammlung hilfreiche sein. 
+Sollte man sich in so einer Diskussion wiederfinden und die Hoffnung haben, irgendwie zu seinem Gegenüber durchzudringen, kann die folgende Linkssammlung hilfreiche sein.
 
 Vielleicht auch nur als Copium fürs eigene Gewissen, dass man sich auf Statistiken und messbare Daten beruft. Ob's was bringt, ist immer die andere Frage..
 
@@ -28,7 +28,7 @@ Mit der Statistik muss man vorsichtig umgehen, die kann nämlich schnell irrefü
 ![Straftaten gegen die sexuelle Selbstbestimmung](https://media.discordapp.net/attachments/705754362256818178/1336707899023556618/xsPuTTk.png?ex=67b3f2fd&is=67b2a17d&hm=695d43234153db3176015c366487414d9224da66ad8195d086b1beb3b132614c&=&format=webp&quality=lossless&width=608&height=671)
 [Quelle: Wikipedia](https://de.wikipedia.org/wiki/Straftaten_gegen_die_sexuelle_Selbstbestimmung)
 
-Darüber hinaus lassen sich die einzelnen Jahre schwer bis gar nicht miteinander vergleichen, da es über die Jahre mehrere Anpassungen des Strafrechts gab. 2017 kam *sexuelle Belästigung* mit §184i als völlig neuer Tatbestand rein und 2016 sowie 2021 wurden die Hürden der Strafbarkeit von sexuellen Übergriffen herabgesetzt was zu höheren Zahlen führt. Das mit immer weitergehender Aufklärung und mehr Anlaufstellen sorgt alleine schon für einen starken Anstieg der Delikte. Darüber hinaus ist in den Jahren nach 2020 hauptsächlich die Zahl der Straftaten in Bezug auf Kinderpornografie angestiegen. 
+Darüber hinaus lassen sich die einzelnen Jahre schwer bis gar nicht miteinander vergleichen, da es über die Jahre mehrere Anpassungen des Strafrechts gab. 2017 kam *sexuelle Belästigung* mit §184i als völlig neuer Tatbestand rein und 2016 sowie 2021 wurden die Hürden der Strafbarkeit von sexuellen Übergriffen herabgesetzt was zu höheren Zahlen führt. Das mit immer weitergehender Aufklärung und mehr Anlaufstellen sorgt alleine schon für einen starken Anstieg der Delikte. Darüber hinaus ist in den Jahren nach 2020 hauptsächlich die Zahl der Straftaten in Bezug auf Kinderpornografie angestiegen.
 
 ![Bereinigte Statistik Straftaten gegen die sexuelle Selbstbestimmung](https://media.discordapp.net/attachments/705754362256818178/1336707899308638298/BLcLTvh.png?ex=67b3f2fe&is=67b2a17e&hm=42d49620785674c17d8a2ea75fa1aa6aef26cc5b4cb9a425d335c19b7d0393e0&=&format=webp&quality=lossless)
 [Quelle: Tagesschau](https://www.tagesschau.de/faktenfinder/straftaten-sexuelle-selbstbestimmung-100.html)
@@ -47,7 +47,7 @@ Man beachte die Zahlen, 1993 (peak). Heutzutage niedriger, obwohl wir nun doppel
 Bei Morden sieht es ähnlich aus:
 ![Mordopfer Deutschland](https://media.discordapp.net/attachments/705754362256818178/1336735869964517386/image.png?ex=67b40d0a&is=67b2bb8a&hm=836079ca9f824f6be6da2904d0416cd8ed55b9da88f260eae3e0b0a053cfb490&=&format=webp&quality=lossless&width=934&height=485)
 
-Raubmorde: 
+Raubmorde:
 ![Raubmorder Deutschland](https://media.discordapp.net/attachments/705754362256818178/1336735921990537286/image.png?ex=67b40d17&is=67b2bb97&hm=1f82f115f2d86164aa6163c2df7f9213d2f4ac96bb2510dc0d5e6fa7fd2a3ab5&=&format=webp&quality=lossless&width=934&height=489)
 
 Sexualmorde:
@@ -71,7 +71,7 @@ Es ist in Teilen viel der Berichterstattung geschuldet, dass in der öffentliche
 
 Bis 1996 hatten wir in Deutschland eine Vermögensteuer von einem Prozent. Seit der Abschaffung fehlen mindestens [380 Milliarden Euro (Stand: Ende 2023)](https://www.oxfam.de/ueber-uns/publikationen/vermoegenssteuer-keine-angst-steuerflucht)
 
-Ein beliebtes Argument, wenn es um das Thema Vermögensteuer geht ist: 
+Ein beliebtes Argument, wenn es um das Thema Vermögensteuer geht ist:
 > Wenn wir die Vermögensteuer einführen, werden die Milliarde mit ihren Unternehmen alle ins Ausland gehen!
 
 Oxfam hat hierzu eine Studie veröffentlicht, die anschaulich vermittelt, dass Steuerflucht nicht mehr so einfach ist, wie man sich das vielleicht denkt:
@@ -81,7 +81,7 @@ Oxfam hat hierzu eine Studie veröffentlicht, die anschaulich vermittelt, dass S
 
 ## Die Söder-Challenge
 
-Es gibt Politiker wie Markus Söder, die sich momentan wieder für das Thema [Atomstrom aus Deutschland stark machen](https://www.deutschlandfunk.de/soeder-csu-will-comeback-der-atomkraft-forcieren-und-die-fusionsforschung-voranbringen-100.html). 
+Es gibt Politiker wie Markus Söder, die sich momentan wieder für das Thema [Atomstrom aus Deutschland stark machen](https://www.deutschlandfunk.de/soeder-csu-will-comeback-der-atomkraft-forcieren-und-die-fusionsforschung-voranbringen-100.html).
 Der (Klein-)Künstler Marc-Uwe Kling hat sich hierzu einen schöne Challenge ausgedacht, die er an Markus Söder direkt richtet:
 
 <YoutubeEmbed watchId="wVWBC9iJ8Hk"/>
@@ -89,6 +89,6 @@ Der (Klein-)Künstler Marc-Uwe Kling hat sich hierzu einen schöne Challenge aus
 Dass das Ganze mit den Atomkraftwerken wirklich nicht so einfach ist, wird auch von mehreren Stellen bestätigt:
 - [Rückkehr zur Atomkraft - mehr Kosten als Nutzen](https://www.tagesschau.de/wissen/technologie/atomkraft-128.html)
 - [Atomkraft? Grundlastkraftwerke für künftige Versorgungssicherheit nicht notwendig](https://www.mdr.de/wissen/umwelt-klima/energiesystem-erneuerbare-gundlastkraftwerk-atomkraftwerke-akw-nicht-notwendig-100.html)
-    -  [Studie: Kernspaltung, Erdgas, Geothermie, Kernfusion: Welche Rolle spielen Grundlastkraftwerke in Zukunft?](https://energiesysteme-zukunft.de/publikationen/stellungnahme/grundlastkraftwerke) 
+    -  [Studie: Kernspaltung, Erdgas, Geothermie, Kernfusion: Welche Rolle spielen Grundlastkraftwerke in Zukunft?](https://energiesysteme-zukunft.de/publikationen/stellungnahme/grundlastkraftwerke)
 
-Zwar lässt sich weltweit wieder eine steigende Nachfrage nach Atomstrom feststellen, [die Beweggründe sind allerdings zweifelhaft](https://www.mdr.de/wissen/umwelt-klima/kernenergie-atomkraft-internationale-energieagentur-sieht-comeback-akw-100.html). 
+Zwar lässt sich weltweit wieder eine steigende Nachfrage nach Atomstrom feststellen, [die Beweggründe sind allerdings zweifelhaft](https://www.mdr.de/wissen/umwelt-klima/kernenergie-atomkraft-internationale-energieagentur-sieht-comeback-akw-100.html).
