@@ -39,7 +39,9 @@ export default defineConfig({
         {
           text: 'Minecraft',
           items: [
-            { text: 'Index', link: '/games/minecraft' }
+            { text: 'Index', link: '/games/minecraft' },
+            { text: 'Prism Launcher', link: '/games/minecraft/prism-launcher' },
+            { text: 'Mod List', link: '/games/minecraft/mods' }
           ]
         }
       ],
