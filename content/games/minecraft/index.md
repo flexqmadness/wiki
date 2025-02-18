@@ -6,4 +6,5 @@ Source: [Wikipedia](https://www.wikiwand.com/en/articles/Minecraft)
 
 ## Topics
 
+* [Prism Launcher Setup](prism-launcher.md)
 * [Mods](mods.md)
