@@ -1,4 +1,4 @@
 # Games Topic
 
 * [Rayman](rayman)
-* [Minecraft](minecraft)
+* [Minecraft](minecraft/index.md)
