@@ -1,3 +1,27 @@
 img {
     border-radius: 16px;
 }
+
+
+@keyframes rotateLogoBG {
+    0% {
+        background-position: 0% 0%;
+    }
+    25% {
+        background-position: 0% 100%;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+    75% {
+        background-position: 100% 0%;
+    }
+    100% {
+        background-position: 0% 0%;
+    }
+}
+
+.image-bg {
+    background-size: 400% 400%;
+    animation: rotateLogoBG 30s ease infinite;
+}
