@@ -56,7 +56,7 @@ export default defineConfig({
         /*  The path is set to go back a directory level because
          *  the base path at build time is the '.vitepress' directory.
          */
-        "@components": path.resolve(__dirname, "../components/"),
+        "@/components": path.resolve(__dirname, "../components/"),
       },
     },
   },
