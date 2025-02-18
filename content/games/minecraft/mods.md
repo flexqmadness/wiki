@@ -5,6 +5,7 @@
 ### Ambience
 * [Ambient Environment](https://modrinth.com/mod/ambient-environment)
 * [Ambient Sounds](https://modrinth.com/mod/ambientsounds)
+* [Drip Sounds](https://modrinth.com/mod/dripsounds)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 * [Particular](https://modrinth.com/mod/particular)
 * [Perception](https://modrinth.com/mod/perception)
@@ -32,6 +33,7 @@
 
 ### Quality of Life
 * [Apple Skin](https://modrinth.com/mod/appleskin)
+* [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats)
 * [Bobby](https://modrinth.com/mod/bobby)
 * [Camera Utils](https://modrinth.com/mod/camera-utils)
@@ -53,10 +55,12 @@
 * [Chat Heads](https://modrinth.com/mod/chat-heads)
 * [Chat Patches](https://modrinth.com/mod/chatpatches)
 * [Continuity](https://modrinth.com/mod/continuity)
+* [Detailed Armour Bar](https://modrinth.com/mod/detail-armor-bar)
 * [Indium](https://modrinth.com/mod/indium)
 * [Iris](https://modrinth.com/mod/iris)
 * [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
 * [Model Gap Fix](https://modrinth.com/mod/modelfix)
+* [Not enough Animations](https://modrinth.com/mod/not-enough-animations)
 * [Show me your Skin](https://modrinth.com/mod/show-me-your-skin)
 * [Talk Bubbles](https://modrinth.com/mod/talkbubbles)
 * [Visuality](https://modrinth.com/mod/visuality)
@@ -78,6 +82,7 @@
 * [AdventureZ](https://modrinth.com/mod/adventurez)
 * [Additional Armoury](https://modrinth.com/mod/additional-armoury)
 * [Beautify](https://modrinth.com/mod/beautify-refabricated)
+* [Bountiful](https://modrinth.com/mod/bountiful)
 * [Combat+ Core](https://modrinth.com/mod/combatplus-core)
 * [Dual Swords](https://modrinth.com/mod/dual-swords)
 * [Stoneworks](https://modrinth.com/mod/stoneworks)
@@ -96,6 +101,9 @@
 * [Waystones](https://modrinth.com/mod/fwaystones)
 
 ### World Generation
+* Better Minecraft
+  * [Better End](https://modrinth.com/mod/betterend)
+  * [Better Nether](https://modrinth.com/mod/betternether)
 * [Chunky](https://modrinth.com/plugin/chunky)
 * [Cinderscapes](https://modrinth.com/mod/cinderscapes)
 * Dungeons and Taverns
@@ -110,6 +118,7 @@
   * [Dungeons and Taverns Desert Temple Replacement](https://modrinth.com/datapack/dungeons-and-taverns-desert-temple-replacement)
   * [Dungeons and Taverns Ocean Monument Replacement](https://modrinth.com/datapack/dungeons-and-taverns-ocean-monument-replacement)
 * [Dungeons and Taverns End Castle Standalone](https://modrinth.com/datapack/dungeons-and-taverns-end-castle-standalone)
+* [Nullscape](https://modrinth.com/datapack/nullscape)
 * [Oh the Biomes we've gone](https://modrinth.com/mod/oh-the-biomes-weve-gone)
 * Yungs Better Minecraft
   * [Yung's API](https://modrinth.com/mod/yungs-api)
@@ -134,7 +143,6 @@
 * [Minitweaks](https://modrinth.com/mod/minitweaks)
 
 ### Performance
-* [Lithium](https://modrinth.com/mod/lithium)
 * [Server Core](https://modrinth.com/mod/servercore)
 
 ### Features
@@ -142,7 +150,10 @@
 * [Neutral Animals](https://modrinth.com/mod/neutral-animals)
 * [Ore Harvester](https://modrinth.com/mod/ore-harvester)
 * [Random Mob Sizes](https://modrinth.com/mod/random-mob-sizes)
+* [Styled Chat](https://modrinth.com/mod/styled-chat)
+* [Styled Nicknames](https://modrinth.com/mod/styled-nicknames)
 * [Tree Harvester](https://modrinth.com/mod/tree-harvester)
 
 ### World Generation
 * [Chunky](https://modrinth.com/plugin/chunky)
+* [Techtonic](https://modrinth.com/datapack/tectonic)
