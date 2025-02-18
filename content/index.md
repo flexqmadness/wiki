@@ -7,7 +7,7 @@ hero:
   text: "Stuff & Things that are neat to know."
   tagline: "... und viel mehr"
   image:
-    src: /assets/fqm-logo.svg
+    src: /fqm-logo.webp
     alt: FQM Logo
 features:
   - icon: 💾
@@ -21,6 +21,5 @@ features:
   - icon: 🗳️
     title: Politik
     details: Trust me, i won't get political..
-    link: politik/  
+    link: politik/
 ---
-
