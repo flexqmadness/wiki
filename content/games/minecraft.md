@@ -1,5 +1,5 @@
 <script setup>
-    import YoutubeEmbed from '../../components/YoutubeEmbed.vue'
+    import YoutubeEmbed from '@components/YoutubeEmbed.vue'
 </script>
 
 # Minecraft
