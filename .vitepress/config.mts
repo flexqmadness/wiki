@@ -3,7 +3,7 @@ import * as path from 'path'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Flex Queue Madness Wiki",
+  title: "Flex Q Madness Wiki",
   description: "Stuff & Things that are neat to know.",
   srcDir: 'content',
   themeConfig: {
@@ -68,7 +68,7 @@ export default defineConfig({
       label: 'ToC'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Flex-Queue-Madness/wiki' }
+      { icon: 'github', link: 'https://github.com/flexqmadness/wiki' }
     ]
   },
   markdown: {
