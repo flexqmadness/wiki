@@ -5,8 +5,10 @@
 ### Ambience
 * [Ambient Environment](https://modrinth.com/mod/ambient-environment)
 * [Ambient Sounds](https://modrinth.com/mod/ambientsounds)
+* [Cool Rain](https://modrinth.com/mod/coolrain)
 * [Drip Sounds](https://modrinth.com/mod/dripsounds)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
+* [Particle Rain](https://modrinth.com/mod/particle-rain)
 * [Particular](https://modrinth.com/mod/particular)
 * [Perception](https://modrinth.com/mod/perception)
 * [Sound Physics](https://modrinth.com/mod/sound-physics-remastered)
@@ -56,6 +58,7 @@
 * [Chat Patches](https://modrinth.com/mod/chatpatches)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [Detailed Armour Bar](https://modrinth.com/mod/detail-armor-bar)
+* [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement)
 * [Indium](https://modrinth.com/mod/indium)
 * [Iris](https://modrinth.com/mod/iris)
 * [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
@@ -64,6 +67,7 @@
 * [Show me your Skin](https://modrinth.com/mod/show-me-your-skin)
 * [Talk Bubbles](https://modrinth.com/mod/talkbubbles)
 * [Visuality](https://modrinth.com/mod/visuality)
+* [Wakes](https://modrinth.com/mod/wakes)
 * [Wavey Capes](https://modrinth.com/mod/wavey-capes)
 
 
